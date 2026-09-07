@@ -1,0 +1,6 @@
+{
+  "name": "Perfumaria Elegance - Gestão & PDV",
+  "description": "Sistema completo de gestão para loja de perfumaria com controle de produtos, estoque, entradas, fornecedores, PDV, caixa, fechamento, relatórios e auditoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
